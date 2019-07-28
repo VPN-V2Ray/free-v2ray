@@ -10,5 +10,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEwLjB4IFVTLUJhc2ljLUEg576O5Zu9IiwNCiAg
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUIg5pel5pysIiwNCiAgImFkZCI6ICJqcDAyLnFpYW5nbGllLm9yZyIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIkY2NkEzNERELTI0QTktODQ3Qi0xMzAyLTcyQzk0RDk3RjgxNyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAianAxMC1iamV5b3UtY29tLmFsaWt1bmx1bi5jb20iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 ```
-更多内容参见
-[墙裂购买使用教程](http://www.yexiaoyu.ml/%E5%A2%99%E8%A3%82%E8%B4%AD%E4%B9%B0%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/)
+## v2ray安装
+[v2ray安装教程](./v2ray-install.md)
+
+V2ray安装脚本
+```
+bash <(curl -s -L https://git.io/v2ray.sh)
+```
