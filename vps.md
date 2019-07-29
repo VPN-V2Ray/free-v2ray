@@ -61,7 +61,7 @@ Vultr目前没有发行优惠码。
 
 [进入官网](https://www.vultr.com/)
 
-![vultr](./image/vps/vultr.png)
+![vultr](./image/vps/Vultr.png)
 
 Vultr教程：
 
