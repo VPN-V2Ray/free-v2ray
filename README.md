@@ -1,3 +1,50 @@
+# 前言
+v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂，但稳定性较好，不易被X
+
+有任何问题,建议都可以[向我提问](https://github.com/mwz1tn/free-v2ray/issues)
+或者给我发邮件[mzbskccn@gmail.com](Mailto://mzbskccn@gmail.com)
+
+个人水平有限，有哪里不对的地方，恳请指正
+
+若本项目对您有所帮助，[欢迎Star](https://github.com/mwz1tn/free-v2ray)
+
+# 目录
+- [前言](#前言)
+    - [其他上网方式(备用)](#其他上网方式(备用))
+        - [直连网站](#直连网站)
+        - [浏览器插件](#浏览器插件)
+- [说好的免费V2ray](#说好的免费V2ray)
+- [墙裂购买](#墙裂购买)
+- [v2ray使用教程(服务器端)](#v2ray使用教程)
+    - [v2ray和shadowsocks相比，有什么好处？](#v2ray和shadowsocks相比，有什么好处？)
+    - [v2ray安装](#v2ray安装(需要vps))
+        - [V2ray一键安装脚本](#快捷复制-V2ray一键安装脚本)
+        - [SS一键安装脚本](#顺便给下SS的安装脚本(自动配置ipv6如果可用的话))
+    - [vps购买建议](#vps购买建议)
+- [v2ray客户端使用](#v2ray客户端使用)
+    - [windows](#windows)
+    - [Mac](#Mac)
+    - [Android(安卓)](#Android(安卓))
+    - [ios](#ios)
+    - [Linux](#Linux)
+    - [直接使用v2ray内核](#提示)
+    
+
+## 其他上网方式(备用)
+
+### 直连网站
+
+打开即可使用，优点可以访问所有的站点
+
+[jsproxy](https://jsproxy.cf/)：【推荐】
+
+### 浏览器插件
+
+建议使用Chrome安装插件，安装方法参考：[Chrome安装扩展教程](Other/7-2-chrome-setup-guide-cn.md#安装扩展)  
+
+[Google Helper](http://googlehelper.net/)
+
+
 # 说好的免费V2ray
 
 
@@ -10,6 +57,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEwLjB4IFVTLUJhc2ljLUEg576O5Zu9IiwNCiAg
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUIg5pel5pysIiwNCiAgImFkZCI6ICJqcDAyLnFpYW5nbGllLm9yZyIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIkY2NkEzNERELTI0QTktODQ3Qi0xMzAyLTcyQzk0RDk3RjgxNyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAianAxMC1iamV5b3UtY29tLmFsaWt1bmx1bi5jb20iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 ```
+
+---
 
 # 墙裂购买
 
@@ -39,11 +88,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUIg5pel5pysIiwNCiAgImFk
 
 [v2ray安装教程](./v2ray-install.md)
 
-快捷复制-V2ray一键安装脚本
+### 快捷复制-V2ray一键安装脚本
 ```
 bash <(curl -s -L https://raw.githubusercontent.com/mwz1tn/free-v2ray/master/code/v2ray.sh)
 ```
-顺便给下SS的安装脚本(自动配置ipv6如果可用的话)
+### 顺便给下SS的安装脚本(自动配置ipv6如果可用的话)
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/mwz1tn/free-v2ray/master/code/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
 ```
@@ -51,20 +100,21 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mwz1tn/free-v2r
 
 [vps购买建议](./vps.md)
 
-
+---
 # v2ray客户端使用
-- Windows
+
+- ## Windows
 
     - V2RayN [V2RayN 使用教程](https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
     [下载链接](https://git.io/fjSfU)
     - clash[教程](./qianglie.md)
     [下载链接](https://git.io/fjyhN)
-- Mac
+- ## Mac
 
     - [V2Ray Mac 使用教程之 V2RayX](https://github.com/Cenmrev/V2RayX)
     -  V2rayU等
 
-- Android (安卓)
+- ## Android(安卓)
 
     - v2rayNG[下载地址](https://github.com/2dust/v2rayNG/releases)
     - Kitsunebi[下载地址](https://git.io/fjSfk)
@@ -72,7 +122,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mwz1tn/free-v2r
         Kitsunebi支持订阅和导入规则，推荐使用下、
 
 
-- iOS
+- ## iOS
     - 软件
         - ShadowRocket（小火箭）
         - Kitsunebi
@@ -84,7 +134,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mwz1tn/free-v2r
         - 破解版(不推荐)，低版本不能很好支持协议，高版本需要登录
         - 万能淘宝(推荐)
 
-- Linux
+- ## Linux
 
     - [Linux 系统下v2ray客户端使用](https://octopuspalm.top/2018/08/18/Linux%20%E7%B3%BB%E7%BB%9F%E4%B8%8Bv2ray%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8/)
 
