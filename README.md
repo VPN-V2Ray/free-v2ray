@@ -13,7 +13,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUIg5pel5pysIiwNCiAgImFk
 ## v2ray安装
 [v2ray安装教程](./v2ray-install.md)
 
-V2ray安装脚本
+快捷复制-V2ray一键安装脚本
 ```
 bash <(curl -s -L https://git.io/v2ray.sh)
 ```
+## vps购买建议
+[vps购买建议](./vps.md)
