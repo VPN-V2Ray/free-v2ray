@@ -52,13 +52,13 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mwz1tn/free-v2r
 [vps购买建议](./vps.md)
 
 
-# 客户端使用
+# v2ray客户端使用
 - Windows
 
     - V2RayN [V2RayN 使用教程](https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
-    [下载链接](https://github.com/mwz1tn/free-v2ray/blob/master/app/v2rayN-Core.zip)
+    [下载链接](https://git.io/fjSfU)
     - clash[教程](./qianglie.md)
-    [下载链接](https://github.com/mwz1tn/free-v2ray/blob/master/app/Clash-Windows.exe)
+    [下载链接](https://git.io/fjyhN)
 - Mac
 
     - [V2Ray Mac 使用教程之 V2RayX](https://github.com/Cenmrev/V2RayX)
@@ -67,9 +67,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mwz1tn/free-v2r
 - Android (安卓)
 
     - v2rayNG[下载地址](https://github.com/2dust/v2rayNG/releases)
-    - Kitsunebi.
+    - Kitsunebi[下载地址](https://git.io/fjSfk)
         
-        Kitsunebi支持订阅和导入规则，推荐使用
+        Kitsunebi支持订阅和导入规则，推荐使用下、
 
 
 - iOS
@@ -92,7 +92,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mwz1tn/free-v2r
 
 **V2Ray 内核可以单独使用**，也可以配置其它程序一起使用。
 
-官网：~~https://www.v2ray.com/~~
+官网：https://www.v2ray.com/
 
 [下载地址](https://github.com/v2ray/v2ray-core/releases)
 
