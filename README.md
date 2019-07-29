@@ -56,8 +56,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mwz1tn/free-v2r
 - Windows
 
     - V2RayN [V2RayN 使用教程](https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+    [下载链接](https://github.com/mwz1tn/free-v2ray/blob/master/app/v2rayN-Core.zip)
     - clash[教程](./qianglie.md)
-
+    [下载链接](https://github.com/mwz1tn/free-v2ray/blob/master/app/Clash-Windows.exe)
 - Mac
 
     - [V2Ray Mac 使用教程之 V2RayX](https://github.com/Cenmrev/V2RayX)
