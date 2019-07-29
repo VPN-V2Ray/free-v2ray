@@ -16,8 +16,8 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 - [说好的免费V2ray](#说好的免费V2ray)
 - [墙裂购买](#墙裂购买)
 - [v2ray使用教程(服务器端)](#v2ray使用教程)
-    - [v2ray和shadowsocks相比，有什么好处？](#v2ray和shadowsocks相比，有什么好处？)
-    - [v2ray安装](#v2ray安装(需要vps))
+    - [v2ray和shadowsocks相比，有什么好处？](#v2ray和shadowsocks相比有什么好处？)
+    - [v2ray安装](#v2ray安装)
         - [V2ray一键安装脚本](#快捷复制-V2ray一键安装脚本)
         - [SS一键安装脚本](#顺便给下SS的安装脚本(自动配置ipv6如果可用的话))
     - [vps购买建议](#vps购买建议)
@@ -70,7 +70,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUIg5pel5pysIiwNCiAgImFk
 
 # v2ray使用教程
 
-## v2ray和shadowsocks相比，有什么好处？
+## v2ray和shadowsocks相比有什么好处？
 
 * 更完善的协议：V2Ray 使用了新的自行研发的 VMess 协议，改正了 Shadowsocks一些已有的缺点，更难被墙检测到；
 * 更强大的性能: 网络性能更好，具体数据可以看 V2Ray 官方博客
@@ -84,7 +84,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUIg5pel5pysIiwNCiAgImFk
     * WebSocket 协议：可以 PaaS 平台搭建V2Ray，通过 WebSocket 代理。也可以通过它使用 CDN 中转，抗封锁效果更好
     * Mux:多路复用，进一步提高科学上网的并发性能
 
-## v2ray安装(需要vps)
+## v2ray安装
 
 [v2ray安装教程](./v2ray-install.md)
 
