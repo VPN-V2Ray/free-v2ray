@@ -10,6 +10,17 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEwLjB4IFVTLUJhc2ljLUEg576O5Zu9IiwNCiAg
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUIg5pel5pysIiwNCiAgImFkZCI6ICJqcDAyLnFpYW5nbGllLm9yZyIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIkY2NkEzNERELTI0QTktODQ3Qi0xMzAyLTcyQzk0RDk3RjgxNyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAianAxMC1iamV5b3UtY29tLmFsaWt1bmx1bi5jb20iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 ```
+
+# 墙裂购买
+
+如果你没有太高需求就建议你别自己折腾了
+
+不妨直接购买v2ray服务，简单稳定省事，在这里强烈推荐[**墙裂**](./qianglie.md)
+
+[直接点我购买](https://xn--noss43i.com/aff.php?aff=627)
+
+# v2ray使用教程
+
 ## v2ray和shadowsocks相比，有什么好处？
 
 * 更完善的协议：V2Ray 使用了新的自行研发的 VMess 协议，改正了 Shadowsocks一些已有的缺点，更难被墙检测到；
@@ -23,19 +34,84 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUIg5pel5pysIiwNCiAgImFk
     * 数据包伪装：类似于 Shadowsocks-rss 的混淆，另外对于 mKCP 的数据包也可伪装，伪装常见流量，令识别更困难
     * WebSocket 协议：可以 PaaS 平台搭建V2Ray，通过 WebSocket 代理。也可以通过它使用 CDN 中转，抗封锁效果更好
     * Mux:多路复用，进一步提高科学上网的并发性能
-总述
-## v2ray安装
+
+## v2ray安装(需要vps)
+
 [v2ray安装教程](./v2ray-install.md)
 
 快捷复制-V2ray一键安装脚本
 ```
-bash <(curl -s -L https://git.io/v2ray.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/mwz1tn/free-v2ray/master/code/v2ray.sh)
+```
+顺便给下SS的安装脚本(自动配置ipv6如果可用的话)
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/mwz1tn/free-v2ray/master/code/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
 ```
 ## vps购买建议
 
 [vps购买建议](./vps.md)
 
-# 墙裂购买
-如果你想追求稳定省事，不妨直接购买v2ray服务，在这里强烈推荐[**墙裂**](./qianglie.md)
 
-[直接点我购买](https://xn--noss43i.com/aff.php?aff=627)
+# 客户端使用
+- Windows
+
+    - V2RayN [V2RayN 使用教程](https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+    - clash[教程](./qianglie.md)
+
+- Mac
+
+    - [V2Ray Mac 使用教程之 V2RayX](https://github.com/Cenmrev/V2RayX)
+    -  V2rayU等
+
+- Android (安卓)
+
+    - v2rayNG[下载地址](https://github.com/2dust/v2rayNG/releases)
+    - Kitsunebi.
+        
+        Kitsunebi支持订阅和导入规则，推荐使用
+
+
+- iOS
+    - 软件
+        - ShadowRocket（小火箭）
+        - Kitsunebi
+        - Pepi
+
+        三款APP已经全部从国区APP Store下架
+    - 方案
+        - 申请苹果美区账号，自行购买
+        - 破解版(不推荐)，低版本不能很好支持协议，高版本需要登录
+        - 万能淘宝(推荐)
+
+- Linux
+
+    - [Linux 系统下v2ray客户端使用](https://octopuspalm.top/2018/08/18/Linux%20%E7%B3%BB%E7%BB%9F%E4%B8%8Bv2ray%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8/)
+
+## 提示
+
+**V2Ray 内核可以单独使用**，也可以配置其它程序一起使用。
+
+官网：~~https://www.v2ray.com/~~
+
+[下载地址](https://github.com/v2ray/v2ray-core/releases)
+
+### 使用方式
+
+#### Windows 或 macOS
+
+压缩包内的 config.json 是默认的配置文件，无需修改即可使用。配置文件的详细信息可以在官网找到。
+
+* Windows 中的可执行文件为 v2ray.exe 和 wv2ray.exe。双击即可运行。
+  * v2ray.exe 是一个命令行程序，启动后可以看到命令行界面。
+  * wv2ray.exe 是一个后台程序，没有界面，会在后台自动运行。
+* macOS 中的可执行文件为 v2ray。右键单击，然后选择使用 Terminal 打开即可。
+
+#### Linux
+
+压缩包中包含多个配置文件，按需使用。
+
+可执行程序为 v2ray，启动命令：
+
+```bash
+v2ray --config=<full path>
+```
