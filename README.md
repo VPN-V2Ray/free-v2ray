@@ -10,10 +10,11 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 
 # 目录
 - [前言](#前言)
-    - [其他上网方式(备用)](#其他上网方式(备用))
-        - [直连网站](#直连网站)
-        - [浏览器插件](#浏览器插件)
 - [说好的免费V2ray](#说好的免费V2ray)
+     - [其他上网方式(备用)](#其他上网方式(备用))
+     - [直连网站](#直连网站)
+     - [浏览器插件](#浏览器插件)
+     - [其他节点](#其他节点)
 - [墙裂购买](#墙裂购买)
 - [v2ray使用教程(服务器端)](#v2ray使用教程)
     - [v2ray和shadowsocks相比，有什么好处？](#v2ray和shadowsocks相比有什么好处？)
@@ -30,6 +31,28 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
     - [直接使用v2ray内核](#提示)
     
 
+# 说好的免费V2ray
+
+> Netflix/TVB/Hulu/HBO 访问解锁
+
+> 高达 1000Mbps 速率可用
+
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4ryIsDQogICJhZGQiOiAiaGswMS5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiQkFGQzhDRkUtRjVERi1BQUU3LTIxODktNUQwQjMzRDQ3RjY1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoazAxLWN4aWxzLWNvbS5hbGlrdW5sdW4uY29tIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+```
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaXpeacrCIsDQogICJhZGQiOiAianAwMy5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiQkFGQzhDRkUtRjVERi1BQUU3LTIxODktNUQwQjMzRDQ3RjY1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJqcDAxLWN4aWxzLWNvbS5hbGlrdW5sdW4uY29tIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+```
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSIsDQogICJhZGQiOiAidS5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiQkFGQzhDRkUtRjVERi1BQUU3LTIxODktNUQwQjMzRDQ3RjY1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1czEwLWJqZXlvdS1jb20uYWxpa3VubHVuLmNvbSIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+```
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoSIsDQogICJhZGQiOiAic2cwMS5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiQkFGQzhDRkUtRjVERi1BQUU3LTIxODktNUQwQjMzRDQ3RjY1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzZzEwLWJqZXlvdS1jb20uYWxpa3VubHVuLmNvbSIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+```
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5viIsDQogICJhZGQiOiAidHcwMS5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICJCQUZDOENGRS1GNURGLUFBRTctMjE4OS01RDBCMzNENDdGNjUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInR3LmJqZXlvdS5jb20iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+```
+
 ## 其他上网方式(备用)
 
 ### 直连网站
@@ -45,27 +68,8 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 [Google Helper](http://googlehelper.net/)
 
 [skyZIP代理应用程序](https://git.io/fjSQr)(推荐)
-
-
-# 说好的免费V2ray
-
-[免费节点 Lncn.org](https://lncn.org/)
-
-```
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUEg5pel5pysIiwNCiAgImFkZCI6ICJqcDAzLnFpYW5nbGllLm9yZyIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIkY2NkEzNERELTI0QTktODQ3Qi0xMzAyLTcyQzk0RDk3RjgxNyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAianAwMS1jeGlscy1jb20uYWxpa3VubHVuLmNvbSIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
-```
-```
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEwLjB4IFVTLUJhc2ljLUEg576O5Zu9IiwNCiAgImFkZCI6ICJoNHZmdXRjaTEzeWxrZnV4Yncuc3RhdGljLnVzLnFpYW5nbGllLmNmIiwNCiAgInBvcnQiOiAiNDY1IiwNCiAgImlkIjogIkY2NkEzNERELTI0QTktODQ3Qi0xMzAyLTcyQzk0RDk3RjgxNyIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-```
-```
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUIg5pel5pysIiwNCiAgImFkZCI6ICJqcDAyLnFpYW5nbGllLm9yZyIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIkY2NkEzNERELTI0QTktODQ3Qi0xMzAyLTcyQzk0RDk3RjgxNyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAianAxMC1iamV5b3UtY29tLmFsaWt1bmx1bi5jb20iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-```
-```
-ss://YWVzLTI1Ni1jZmI6amp5RldReERQOUB3d3cueGlhb2h1b2ppYW4uY2Y6NTg5MTY=
-```
-```
-ss://YWVzLTI1Ni1jZmI6WGVNUG1LejVEZ0B4aWFvaHVvamlhbi5jZjo2MDAz
-```
+### 其他节点
+[免费节点 Lncn.org](https://lncn.org/)(备用)
 
 ---
 
