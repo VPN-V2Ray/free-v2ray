@@ -36,13 +36,15 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 
 打开即可使用，优点可以访问所有的站点
 
-[jsproxy](https://jsproxy.cf/)：【推荐】
+[jsproxy](https://jsproxy.cf/)[被Q]
 
 ### 浏览器插件
 
-建议使用Chrome安装插件，安装方法参考：[Chrome安装扩展教程](Other/7-2-chrome-setup-guide-cn.md#安装扩展)  
+**建议使用Chrome安装插件**，安装方法参考：[Chrome安装扩展教程](https://jingyan.baidu.com/article/a681b0de7ddd313b19434661.html)  
 
 [Google Helper](http://googlehelper.net/)
+
+[skyZIP代理应用程序](https://git.io/fjSQr)(推荐)
 
 
 # 说好的免费V2ray
