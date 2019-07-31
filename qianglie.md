@@ -7,7 +7,7 @@
 ![image](./image/qianglie/image1.png)
 
 ## 注册账号
-我们建议您先注册账号后再购买：[点我前往注册页注册](https://xn--noss43i.com/aff.php?aff=627)
+我们建议您先注册账号后再购买：[点我前往注册页注册](https://go.bjeyou.com/aff.php?aff=627)
 
 ![image](./image/qianglie/image2.png)
 名字、姓氏、邮件地址必填，手机号码选填（可以不填写），邮件地址请填写您的邮箱。
@@ -18,7 +18,7 @@
 填写密码，建议开启“订阅我们的邮件”，输入验证码后点击注册，跳转后注册成功。
 
 ## 购买服务
-服务购买地址：[点我前往套餐页购买](https://xn--noss43i.com/aff.php?aff=627)
+服务购买地址：[点我前往套餐页购买](https://go.bjeyou.com/aff.php?aff=627)
 
 选择您符合您需求的套餐，点击“立即订购”。
 
