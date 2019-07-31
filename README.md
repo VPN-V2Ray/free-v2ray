@@ -88,7 +88,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZDY3ODMyOGNhYTc0ZjdhQDEzOC4xMjguMjE2LjE0Mjo
 
 不妨直接购买v2ray服务，简单稳定省事，在这里强烈推荐[**墙裂**](./qianglie.md)
 
-[直接点我购买](https://go.bjeyou.com/aff.php?aff=627)
+[直接点我购买](https://aff.qianglie.org/aff.php?aff=627)
 
 # v2ray使用教程
 
