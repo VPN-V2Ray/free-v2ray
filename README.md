@@ -33,9 +33,18 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 
 # 说好的免费V2ray
 
+一般不能用的话从发现到更换需要几天(小概率)，多多见谅
+
 > Netflix/TVB/Hulu/HBO 访问解锁
 
 > 高达 1000Mbps 速率可用
+
+订阅地址
+> https://freev2ray.netlify.com/
+
+不会用点我[订阅怎么用？](https://www.bing.com/search?q=v2ray+%E8%AE%A2%E9%98%85&PC=U316&FORM=CHROMN)
+
+提示——打开网址全选，去[Base64解码](https://tool.chinaz.com/tools/base64.aspx)就是Vmess链接(提醒一下，是在右边粘贴)
 
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4ryIsDQogICJhZGQiOiAiaGswMS5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiQkFGQzhDRkUtRjVERi1BQUU3LTIxODktNUQwQjMzRDQ3RjY1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoazAxLWN4aWxzLWNvbS5hbGlrdW5sdW4uY29tIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
