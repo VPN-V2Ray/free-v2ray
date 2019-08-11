@@ -39,37 +39,22 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 
 > 高达 1000Mbps 速率可用
 
-订阅地址
+**订阅地址**
 > https://freev2ray.netlify.com/
 
 不会用点我[订阅怎么用？](https://www.bing.com/search?q=v2ray+%E8%AE%A2%E9%98%85&PC=U316&FORM=CHROMN)
 
 提示——打开网址全选，去[Base64解码](https://tool.chinaz.com/tools/base64.aspx)就是Vmess链接(提醒一下，是在右边粘贴)
 
+两个还可以用的ss
+
 ```
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4ryIsDQogICJhZGQiOiAiaGswMS5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiQkFGQzhDRkUtRjVERi1BQUU3LTIxODktNUQwQjMzRDQ3RjY1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoazAxLWN4aWxzLWNvbS5hbGlrdW5sdW4uY29tIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-```
-```
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaXpeacrCIsDQogICJhZGQiOiAianAwMy5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiQkFGQzhDRkUtRjVERi1BQUU3LTIxODktNUQwQjMzRDQ3RjY1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJqcDAxLWN4aWxzLWNvbS5hbGlrdW5sdW4uY29tIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-```
-```
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvSIsDQogICJhZGQiOiAidXMwMS5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiQkFGQzhDRkUtRjVERi1BQUU3LTIxODktNUQwQjMzRDQ3RjY1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1czEwLWJqZXlvdS1jb20uYWxpa3VubHVuLmNvbSIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+ss://YWVzLTI1Ni1jZmI6amp5RldReERQOUB3d3cueGlhb2h1b2ppYW4uY2Y6NTg5MTY=#US_1
 ```
 ```
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoSIsDQogICJhZGQiOiAic2cwMS5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiQkFGQzhDRkUtRjVERi1BQUU3LTIxODktNUQwQjMzRDQ3RjY1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzZzEwLWJqZXlvdS1jb20uYWxpa3VubHVuLmNvbSIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+ss://YWVzLTI1Ni1jZmI6WGVNUG1LejVEZ0B4aWFvaHVvamlhbi5jZjo2MDAz#Us_2
 ```
-```
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5viIsDQogICJhZGQiOiAidHcwMS5teXNvY2tzLm1sIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICJCQUZDOENGRS1GNURGLUFBRTctMjE4OS01RDBCMzNENDdGNjUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInR3LmJqZXlvdS5jb20iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-```
-```
-ss://YWVzLTI1Ni1jZmI6WGVNUG1LejVEZ0B4aWFvaHVvamlhbi5jZjo2MDAz#13%E5%8F%B7%E5%88%B0%E6%9C%9F
-```
-```
-ss://YWVzLTI1Ni1jZmI6amp5RldReERQOUB3d3cueGlhb2h1b2ppYW4uY2Y6NTg5MTY=#14%E5%8F%B7%E5%88%B0%E6%9C%9F
-```
-```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZDY3ODMyOGNhYTc0ZjdhQDEzOC4xMjguMjE2LjE0MjoyMzM0#US-138-0905%E5%88%B0%E6%9C%9F
-```
+
 
 ## 其他上网方式(备用)
 
