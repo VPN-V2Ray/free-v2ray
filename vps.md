@@ -40,7 +40,7 @@
 
 6.25%优惠码：| 5.97%优惠码 |5.5%优惠码
 ---|---|---
-BWH26FXH3HIQ | BWH25AQH2CMQ |ireallyreadtheterms8
+BWH126FXH3HIQ | BWH125AQH2CMQ |ireall1yreadtheterms8
 
 [进入官网](https://bwh88.net)
 
