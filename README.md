@@ -1,12 +1,11 @@
 # 前言
 v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂，但稳定性较好，不易被X
 
-有任何问题,建议都可以[向我提问](https://github.com/mwz1tn/free-v2ray/issues)
-或者给我发邮件[mzbskccn@gmail.com](Mailto://mzbskccn@gmail.com)
+有任何问题,建议都可以[向我提问](https://github.com/VPN-V2Ray/free-v2ray/issues)
 
 个人水平有限，有哪里不对的地方，恳请指正
 
-若本项目对您有所帮助，[欢迎Star](https://github.com/mwz1tn/free-v2ray)
+若本项目对您有所帮助，[欢迎Star](https://github.com/VPN-V2Ray/free-v2ray)
 
 # 目录
 - [前言](#前言)
@@ -46,7 +45,7 @@ v2ray+ws+tls可以说之目前最稳的上网方式，虽然方法稍微复杂�
 
 提示——打开网址全选，去[Base64解码](https://tool.chinaz.com/tools/base64.aspx)就是Vmess链接(提醒一下，是在右边粘贴)
 
-两个还可以用的ss
+两个测试用的ss
 
 ```
 ss://YWVzLTI1Ni1jZmI6amp5RldReERQOUB3d3cueGlhb2h1b2ppYW4uY2Y6NTg5MTY=#US_1
@@ -70,7 +69,7 @@ ss://YWVzLTI1Ni1jZmI6WGVNUG1LejVEZ0B4aWFvaHVvamlhbi5jZjo2MDAz#Us_2
 
 [Google Helper](http://googlehelper.net/)
 
-[skyZIP代理应用程序](https://git.io/fjSQr)(推荐)
+[skyZIP代理应用程序](https://git.io/fwjSQr)(推荐)
 ### 其他节点
 [免费节点 Lncn.org](https://lncn.org/)(备用)
 
@@ -80,9 +79,6 @@ ss://YWVzLTI1Ni1jZmI6WGVNUG1LejVEZ0B4aWFvaHVvamlhbi5jZjo2MDAz#Us_2
 
 如果你没有太高需求就建议你别自己折腾了
 
-不妨直接购买v2ray服务，简单稳定省事，在这里强烈推荐[**墙裂**](./qianglie.md)
-
-[直接点我购买](https://aff.qianglie.org/aff.php?aff=627)
 
 # v2ray使用教程
 
@@ -102,7 +98,7 @@ ss://YWVzLTI1Ni1jZmI6WGVNUG1LejVEZ0B4aWFvaHVvamlhbi5jZjo2MDAz#Us_2
 
 ## vps购买建议
 
-[vps购买建议](./vps.md)
+[vps购买建议](./vpss.md)
 
 
 ## v2ray安装
@@ -111,11 +107,11 @@ ss://YWVzLTI1Ni1jZmI6WGVNUG1LejVEZ0B4aWFvaHVvamlhbi5jZjo2MDAz#Us_2
 
 ### 快捷复制-V2ray一键安装脚本
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/mwz1tn/free-v2ray/master/code/v2ray.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/mwzltn/free-v2ray/master/code/v2ray.sh)
 ```
 ### 顺便给下SS的安装脚本(自动配置ipv6如果可用的话)
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/mwz1tn/free-v2ray/master/code/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/mwzltn/free-v2ray/master/code/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
 ```
 
 ---
