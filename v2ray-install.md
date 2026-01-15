@@ -9,7 +9,7 @@
 
 ## V2ray安装脚本
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/mwz1tn/free-v2ray/master/code/v2ray.sh)
+bash <(wget -qO- -o- https://github.com/233boy/v2ray/raw/master/install.sh)
 ```
 如果提示 curl: command not found ，那是因为你的 VPS 没装 Curl
 ubuntu/debian 系统安装 Curl 方法: 

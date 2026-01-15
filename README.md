@@ -107,13 +107,12 @@ ss://YWVzLTI1Ni1jZmI6WGVNUG1LejVEZ0B4aWFvaHVvamlhbi5jZjo2MDAz#Us_2
 
 ### 快捷复制-V2ray一键安装脚本
 ```
-bash <(curl -s -L https://raw.githubusercontent.com/mwzltn/free-v2ray/master/code/v2ray.sh)
+bash <(wget -qO- -o- https://github.com/233boy/v2ray/raw/master/install.sh)
 ```
 ### 顺便给下SS的安装脚本(自动配置ipv6如果可用的话)
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/mwzltn/free-v2ray/master/code/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
+bash <(wget -qO- -o- https://github.com/233boy/v2ray/raw/master/install.sh)
 ```
-
 ---
 # v2ray客户端使用
 

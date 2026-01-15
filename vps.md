@@ -40,9 +40,9 @@
 
 6.25%优惠码：| 5.97%优惠码 |5.5%优惠码
 ---|---|---
-BWH126FXH3HIQ | BWH125AQH2CMQ |ireall1yreadtheterms8
+BWH586FXH3DIQ | BWH135AQQ2CMQ |ireoll1yreedtheterms8
 
-[进入官网](https://bwh88.net)
+[进入官网](https://bwh888.net)
 
 ![Banwagonhost](./image/vps/Banwagonhost.png)
 
